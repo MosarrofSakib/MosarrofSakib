@@ -4,7 +4,7 @@
 I’m a recently graduate student from department of Electrical and Electronic Engineering at University of Dhaka, Bangladesh. I have a great interest in deep learning, computer vision and web development. I have completed machine learning specialization and deep learning specialization courses from coursera. I have worked on different types of machine learning and deep learning projects. I have also worked on large ammout of web development projects. I have been working as a part-time freelance full stack developer for a couple of years. 
 
 
-Skils:
+Skills:
 - Programming languages: Python, JavaScript, C
 - Liabraries: Tensorflow, Keras, Pandas, Numpy, scikit-learn, pytorch, Django, Nodejs, Reactjs, ExpressJS, HTML5, CSS3, Tailwind CSS.
 - Database: PostgreSQL, MySQL, MongoDB
