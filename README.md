@@ -6,16 +6,15 @@ I’m a recently graduate student from department of Electrical and Electronic E
 
 - Skils:
 
-Programming languages: Python, JavaScript, C
-Liabraries: Tensorflow, Keras, Pandas, Numpy, scikit-learn, pytorch, Django, Nodejs, Reactjs, ExpressJS, HTML5, CSS3, Tailwind CSS.
-Database: PostgreSQL, MySQL, MongoDB
-Others: AWS ec2 deployment, CI/CD integrations, AWS RDS, AWS route53, AWS S3, etc.
+- Programming languages: Python, JavaScript, C
+- Liabraries: Tensorflow, Keras, Pandas, Numpy, scikit-learn, pytorch, Django, Nodejs, Reactjs, ExpressJS, HTML5, CSS3, Tailwind CSS.
+- Database: PostgreSQL, MySQL, MongoDB
+- Others: AWS ec2 deployment, CI/CD integrations, AWS RDS, AWS route53, AWS S3, etc.
 
 
 - Frelancer profile link:
-
-  Fiverr: https://www.fiverr.com/mosarrofsakib
-  Upwork: https://www.upwork.com/freelancers/~01caaff6d8711c053e
+- Fiverr: https://www.fiverr.com/mosarrofsakib
+- Upwork: https://www.upwork.com/freelancers/~01caaff6d8711c053e
 
 <!---
 MosarrofSakib/MosarrofSakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
